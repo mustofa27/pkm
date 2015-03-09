@@ -1,0 +1,154 @@
+c:\users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\jajalwp_pkm.dll
+c:\users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\jajalwp_pkm.pdb
+c:\users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\AppManifest.xaml
+c:\users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\jajalwp_pkm_Debug_AnyCPU.xap
+c:\users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\obj\Debug\App.g.cs
+c:\users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\obj\Debug\MainPage.g.cs
+c:\users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\obj\Debug\jajalwp_pkm.g.resources
+c:\users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\obj\Debug\jajalwp_pkm.Resources.AppResources.resources
+c:\users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\obj\Debug\jajalwp_pkm.csproj.GenerateResource.Cache
+c:\users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\obj\Debug\jajalwp_pkm.dll
+c:\users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\obj\Debug\jajalwp_pkm.pdb
+c:\users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\obj\Debug\XapCacheFile.xml
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\obj\Debug\slowpage.g.cs
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\obj\Debug\burstpage.g.cs
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\obj\Debug\jajalwp_pkm.csprojResolveAssemblyReference.cache
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\obj\Debug\creditpage.g.cs
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\jajalwp_pkm.dll.config
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\Microsoft.Phone.Toolkit.Testing.dll
+C:\Users\iko_arya\documents\visual studio 2013\Projects\jajalwp_pkm\jajalwp_pkm\Bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTesting.Phone.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\Assets\ApplicationIcon.png
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\jajalwp_pkm.dll.config
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\jajalwp_pkm.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\jajalwp_pkm.pdb
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\AppManifest.xaml
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\Properties\WMAppManifest.xml
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\jajalwp_pkm_Debug_AnyCPU.xap
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\Microsoft.Phone.Toolkit.Testing.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTesting.Phone.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\obj\Debug\jajalwp_pkm.csprojResolveAssemblyReference.cache
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\obj\Debug\App.g.cs
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\obj\Debug\burstpage.g.cs
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\obj\Debug\creditpage.g.cs
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\obj\Debug\MainPage.g.cs
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\obj\Debug\slowpage.g.cs
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\obj\Debug\jajalwp_pkm.g.resources
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\obj\Debug\jajalwp_pkm.Resources.AppResources.resources
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\obj\Debug\jajalwp_pkm.csproj.GenerateResource.Cache
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\obj\Debug\jajalwp_pkm.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\obj\Debug\jajalwp_pkm.pdb
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\obj\Debug\XapCacheFile.xml
