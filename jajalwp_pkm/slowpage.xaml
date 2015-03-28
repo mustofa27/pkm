@@ -160,12 +160,13 @@
                     <ImageBrush Stretch="Fill" ImageSource="/image/voicerec.png"/>
                 </Button.Background>
             </Button>
-            <TextBlock HorizontalAlignment="Left" Margin="25,36,0,0" TextWrapping="Wrap" Text="Ayat" VerticalAlignment="Top" Width="83" FontSize="30"/>
+            <MediaElement x:Name="AudioPlayer" AutoPlay="False"/>
+            <TextBlock x:Name="coba" HorizontalAlignment="Left" Margin="25,36,0,0" TextWrapping="Wrap" Text="Ayat" VerticalAlignment="Top" Width="83" FontSize="30"/>
             <TextBlock HorizontalAlignment="Left" Margin="25,176,0,0" TextWrapping="Wrap" Text="Surat" VerticalAlignment="Top" Width="78" FontSize="30"/>
         </Grid>
         <toolkit:ListPicker x:Name="Listpickername2" Margin="34,217,152,433" ExpansionMode="ExpansionAllowed" Background="#FFF7EBEB">
-            <ComboBoxItem Content="Ayat 1" Foreground="Black"/>
-            <ComboBoxItem Content="Ayat 2" Foreground="Black"/>
+            <ComboBoxItem Content="1"  Foreground="Black"/>
+            <ComboBoxItem Content="2" Foreground="Black"/>
         </toolkit:ListPicker>
 
         <toolkit:ListPicker x:Name="Listpickername" Margin="34,356,152,296" ExpansionMode="ExpansionAllowed" Background="#FFF7EBEB">

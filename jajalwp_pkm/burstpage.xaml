@@ -87,6 +87,7 @@
                 <ColumnDefinition Width="15*"/>
             </Grid.ColumnDefinitions>
             <TextBox HorizontalAlignment="Left" Height="72" Margin="19,231,0,0" TextWrapping="Wrap" Text="Result" VerticalAlignment="Top" Width="322" Grid.ColumnSpan="2"/>
+            <MediaElement x:Name="koreksi" AutoPlay="False"/>
             <Button Content="" HorizontalAlignment="Left" Margin="34,345,0,0" VerticalAlignment="Top" Style="{StaticResource round}" Width="87" Height="82" Click="Button_Click" BorderBrush="{x:Null}" Grid.ColumnSpan="2">
                 <Button.Background>
                     <ImageBrush Stretch="UniformToFill" ImageSource="/image/voicerec.png"/>

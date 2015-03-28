@@ -152,3 +152,6 @@ E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\obj\Debug\jajalwp_pkm.cspr
 E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\obj\Debug\jajalwp_pkm.dll
 E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\obj\Debug\jajalwp_pkm.pdb
 E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\obj\Debug\XapCacheFile.xml
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\Coding4Fun.Toolkit.Audio.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\Coding4Fun.Toolkit.Net.dll
+E:\lomba\PKM\progress program\jajalwp_pkm\jajalwp_pkm\Bin\Debug\Coding4Fun.Toolkit.Storage.dll

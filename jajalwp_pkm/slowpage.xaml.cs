@@ -17,17 +17,12 @@ namespace jajalwp_pkm
     public partial class slowpage : PhoneApplicationPage
     {
         private MicrophoneRecorder _recorder = new MicrophoneRecorder();
+        private IsolatedStorageFileStream audioStream;
+        private string tempFileName = "tempWav.wav";
         public slowpage()
         {
             InitializeComponent();
         }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-
         private void nextclick_Click(object sender, RoutedEventArgs e)
         {
             _recorder.Stop();
@@ -40,12 +35,24 @@ namespace jajalwp_pkm
         }
         private void SaveTempAudio(MemoryStream buffer)
         {
+            if (buffer == null)
+                throw new ArgumentNullException("bacaan tidak jelas!");
+            if(audioStream != null)
+            {
+                AudioPlayer.Stop();
+                AudioPlayer.Source = null;
+                audioStream.Dispose();
+            }
             using (IsolatedStorageFile isoStore = IsolatedStorageFile.GetUserStoreForApplication())
             {
                 var bytes = buffer.GetWavAsByteArray(_recorder.SampleRate);
-                var tempFileName = "tempWav.wav";
-                IsolatedStorageFileStream audioStream = isoStore.CreateFile(tempFileName);
+                if(isoStore.FileExists(tempFileName))
+                {
+                    isoStore.DeleteFile(tempFileName);
+                }
+                audioStream = isoStore.CreateFile(tempFileName);
                 audioStream.Write(bytes, 0, bytes.Length);
+                AudioPlayer.SetSource(audioStream);
             }
         }
 

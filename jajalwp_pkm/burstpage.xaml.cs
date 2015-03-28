@@ -7,6 +7,8 @@ using System.Windows.Controls;
 using System.Windows.Navigation;
 using Microsoft.Phone.Controls;
 using Microsoft.Phone.Shell;
+using System.IO.IsolatedStorage;
+using System.IO;
 
 namespace jajalwp_pkm
 {
@@ -15,16 +17,19 @@ namespace jajalwp_pkm
         public burstpage()
         {
             InitializeComponent();
+            IsiSource();
         }
-
-        private void HyperlinkButton_Click(object sender, RoutedEventArgs e)
+        private int i = 2;
+        private string path = "/Assets/An Naba'/78ayat",ext = ".wav";
+        private void IsiSource()
         {
-            NavigationService.Navigate(new Uri("/slowpage.xaml", UriKind.Relative));
+            koreksi.Source = new Uri("/Assets/An Naba'/78ayat1.wav", UriKind.RelativeOrAbsolute);
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            NavigationService.Navigate(new Uri("/slowpage.xaml", UriKind.Relative));
+            koreksi.Play();
+            //koreksi.Source = new Uri(path + i++.ToString() + ext, UriKind.RelativeOrAbsolute);
         }
     }
 }
